@@ -1,5 +1,6 @@
-import math
-def area(1,b):
-    return 1*b
-def perimeter(1,b)
-    return 2*(1+b)
+def area(length, breadth):
+    return length * breadth
+
+def perimeter(length, breadth):
+    return 2 * (length + breadth)
+
